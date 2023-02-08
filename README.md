@@ -51,13 +51,14 @@ Using the Excel [workbook](CrowdfundingBook.xlsx) provided, modify and analyze t
 2. What are some limitations of this dataset?
 3. What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 
-### Analysis of Outcomes Based on Launch Date
+### Three conclusions we can draw about crowdfundind campaings?
+•	19% of the donations exceeded 200% which means that the goal is not real
+•	57% OF THE campaigns were successful.
+•	1% of the campaigns are still live.
 
+### Limitations of this dataset?
+•	We had to create new columns like Goal Rangers to get the percentage of some campaigns. 
 
-### Analysis of Outcomes Based on Goals
-
-
-### Challenges and Difficulties Encountered
-
-## Results
+### Other possible tables and or graphs that we could create, and what additional value would they provide
+•	We can create tables using dates to know if the campaigns were too long or not related with pledged.
 
